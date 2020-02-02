@@ -1,0 +1,11 @@
+var localStorage;
+var onload;
+var onresize
+var onkeyup;
+var onkeydown;
+var innerWidth;
+var innerHeight;
+var onmousemove;
+var onmousedown;
+var onmouseup;
+var c;
